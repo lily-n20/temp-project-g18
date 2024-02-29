@@ -19,6 +19,8 @@ Assignments will be distributed based on member availability, skills, and intere
 
 ## Ensuring Full Participation
 
+NO PHONE!!!
+
 We value the full participation of every member in our community. To ensure inclusivity, we will establish clear communication channels and encourage active engagement from all members. We will also recognize and honor individual strengths and interests, allowing members to contribute in areas where they excel.
 
 ## Meeting Times and Locations/Mediums
