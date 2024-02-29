@@ -1,1 +1,1 @@
-### TuneLingo Project - Group 18
+### LingoTune Project - Group 18
