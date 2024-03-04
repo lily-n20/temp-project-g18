@@ -32,7 +32,11 @@
   
 * Team Action (if any): Organize brainstorming sessions with the team to gather ideas on the features and functionalities of the app. Discuss how music can be integrated into the language learning process effectively, and talk to a language expert or musician to get different ideas for content for the app. Develop language lessons, vocabulary lists, grammar explanations, and culturally relevant music playlists.
 
-4. Observation 4:
-* Observation Statement:
+4. Observation 4: What aspects of traditional langauge learmethod do you find unengaging/demotivating
+* Observation Statement: The learning methods are generalized and tasks are monotonous and repetitive when it comes to learning verbs/other grammar.
 * Supporting Data:
-* Team Action (if any):
+  - "the confusing and monotonous task of learning verb tenses and other grammar"
+  - "Rote memorization, no context, no fun."
+  - "Memorizing vocab"
+  - "Repeating what someone say and saying it back"
+* Team Action (if any): Ensure a more interactive learning experience with a variety of immersive lessons. 
