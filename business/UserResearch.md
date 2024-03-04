@@ -13,9 +13,17 @@
 
 
 2. Observation 2:
-* Observation Statement:
+* Observation Statement: Most users wanted to learn a new langauge for the benifits and for traveling outside the country. The responses were saying how they were going to use the new language for traveling, so they can talk to people in a different country and make connections.
 * Supporting Data:
+  - "The thought of being able to travel to other countries and the ability to speak with other people in my town. It also looks great on job applications."
+  - "Being able to assist those who may need translators, also being able to fit in and join conversations with anyone"
+  - "To connect with others"
+  - "A goal like travel or a business engagement with customers/partners who speak a different language."
+  - "using it on vacation"
+  - "Being able to travel and understand there culture a bit more"
+  - "Learning the culture"
 * Team Action (if any):
+  - Incorportate music from specific countries the user wants to visit.
 
 3. Observation 3:
 * Observation Statement: The most popular languages that users who took the survey wanted to learn were Spanish and Japanese.
