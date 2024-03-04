@@ -19,6 +19,8 @@ Assignments will be distributed based on member availability, skills, and intere
 
 ## Ensuring Full Participation
 
+NO PHONE!!!
+
 We value the full participation of every member in our community. To ensure inclusivity, we will establish clear communication channels and encourage active engagement from all members. We will also recognize and honor individual strengths and interests, allowing members to contribute in areas where they excel.
 
 ## Meeting Times and Locations/Mediums
@@ -44,4 +46,5 @@ To encourage active listening and respectful dialogue, we will promote conversat
 The team will enforce its own rules through open communication and mutual accountability. If a member is not adhering to the conduct guidelines, the issue will be addressed through respectful feedback and discussion. We will strive to provide feedback in a constructive manner, taking into consideration individual preferences for giving and receiving feedback.
 
 ![Lily's sig](src/lily.JPG)
-![Lily's sig](EthansSignature.png)
+![Ethan's sig](src/EthansSignature.png)
+![Arianna's sig](src/Ariannasignature.png)
