@@ -1,22 +1,22 @@
 https://docs.google.com/presentation/d/1zN9kk9sTAY4EAVvL_tDzilyJ7DuriDWFc9fz8cMHPYc/edit#slide=id.gc8216bd24_20_0 
 
 
-**NPS
+**NPS**
 
--- Explain How we are collecting this data
+- Explain How we are collecting this data
 
-**Adoption
+**Adoption**
 
--- Explain How we are collecting this data
+- Explain How we are collecting this data
 
-**DAU
+**DAU**
 
--- Explain How we are collecting this data
+- Explain How we are collecting this data
 
-**Retention 
+**Retention**
 
--- Explain How we are collecting this data
+- Explain How we are collecting this data
 
-**CTR for completion of the Golden Path
+**CTR for completion of the Golden Path**
 
--- Explain How we are collecting this data
+- Explain How we are collecting this data
