@@ -1,0 +1,18 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "additionalProperties": {
+    "type": "object",
+    "properties": {
+      "learningLanguage": {
+        "type": "string",
+        "enum": ["ENGLISH", "SPANISH"]
+      },
+      "preferredGenre": {
+        "type": "string",
+        "enum": ["POP"]
+      }
+    },
+    "required": ["learningLanguage", "preferredGenre"]
+  }
+}
