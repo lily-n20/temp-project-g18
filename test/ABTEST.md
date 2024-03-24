@@ -7,7 +7,7 @@ NPS Score Enhancement through UI Redesign
 US002
 
 ### Metric (from the HEART grid):
-Happiness (NPS)
+Net Promoter Score (NPS)
 
 ### Hypothesis:
 We believe that the current placement and design of our NPS survey are leading to low response rates and potentially lower scores. By redesigning the user interface to make the NPS survey more engaging and accessible post-interaction, we expect to see an increase in response rates and overall NPS.
