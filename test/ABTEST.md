@@ -21,3 +21,6 @@ We believe that the current placement and design of our NPS survey are leading t
 ### Variations:
 - **Control Version**: The current NPS survey design and placement.
 - **Test Version**: A redesigned NPS survey with improved visibility and user engagement features, such as an interactive slider for rating, more colorful design, and a motivational message post-completion.
+
+### Design Mockups:
+- Include mockups for both the control and test versions, showing the changes in UI design and placement within the app.
