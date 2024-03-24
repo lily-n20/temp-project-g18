@@ -10,11 +10,11 @@
 
 **Adoption**
 
-- Explain How we are collecting this data
+- **How to collect**: Integrate an analytic tools that help track user interaction like firebase Analytics or Google Analytics
 
 **Daily Active Users (DAU)**
 
-- Explain How we are collecting this data
+- **How to collect**: Implement a user authentication system that requires the user to log in and will identify anyone who logs onto the app and track their activity and how long they use the app for.
 
 **Retention**
 
