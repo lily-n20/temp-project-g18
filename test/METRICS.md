@@ -1,24 +1,16 @@
 [Google HEART Framework Slides](https://docs.google.com/presentation/d/1zN9kk9sTAY4EAVvL_tDzilyJ7DuriDWFc9fz8cMHPYc/edit#slide=id.gc8216bd24_20_0)
 
+##Key Matrics for LingoTune
 
-**Happiness**
+**Net Promoter Score (NPS)**
 
-- **Goal**: Ensure users solve their problems easily, quickly, and enjoyably.
-- **Metrics**: 
-  - Average user satisfaction rating
-  - Net Promoter Score (NPS)
-  - Positive review percentage
+- **How to collect**: Implement a survey at the end of the Golden Path in the app to collect NPS data, storing responses in the database.
 
-**How we are collecting this data**:
-- **User Satisfaction Rating**: Implement a feedback form in the app or website that asks users to rate their satisfaction on a scale of 1-10.
-- **Net Promoter Score (NPS)**: Include an NPS survey question at key interaction points or after completing significant actions within the app or website.
-- **Positive Review Percentage**: Monitor and aggregate the percentage of positive reviews from app stores and feedback forms.
-
-**Engagement**
+**Adoption**
 
 - Explain How we are collecting this data
 
-**Adoption**
+**Daily Active Users (DAU)**
 
 - Explain How we are collecting this data
 
@@ -26,6 +18,6 @@
 
 - Explain How we are collecting this data
 
-**Task Sucess (Golden Path)**
+**CTR for completion of the Golden Path**
 
 - Explain How we are collecting this data
