@@ -18,7 +18,7 @@
 
 **Retention**
 
-- Explain How we are collecting this data
+- **How to collect** tracking user accounts and activity, gathering feedback via surveys, monitoring customer support interactions, and utilizing analytics tools to understand user engagement trends over time.
 
 **CTR for completion of the Golden Path**
 
