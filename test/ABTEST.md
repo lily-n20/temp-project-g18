@@ -24,3 +24,34 @@ We believe that the current placement and design of our NPS survey are leading t
 
 ### Design Mockups:
 - Include mockups for both the control and test versions, showing the changes in UI design and placement within the app.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## A/B Test Name:
+Daily Active Users (DAU) Increase through Onboarding Flow Optimization
+
+### User Story Number:
+US003
+
+### Metric (from the HEART grid):
+Daily Active Users (DAU)
+
+### Hypothesis:
+We believe that the current onboarding flow is leading to a high dropout rate among new users, resulting in lower daily active user counts. By optimizing the onboarding experience to be more intuitive and engaging, we expect to see an increase in the number of daily active users.
+
+### Experiment:
+- **Audience**: All new users, with 50% exposed to the current onboarding flow (control) and 50% exposed to the optimized onboarding flow (variant).
+- **Duration**: 4 weeks to observe the impact on daily active user counts.
+- **Success Metrics**: Increase in daily active user counts and a decrease in the dropout rate during the onboarding process.
+- **Tracking Setup**: Utilize Mixpanel to track the number of users completing the onboarding flow, the time spent on the platform post-onboarding, and the daily active user counts. Compare these metrics between the control and variant groups.
+
+### Variations:
+- Control Version: The current onboarding flow with multiple screens and lengthy instructions.
+- Test Version: An optimized onboarding flow with streamlined steps, interactive tutorials, and personalized recommendations.
+### Design Mockups:
+Include mockups for both the control and test versions, illustrating the differences in the onboarding flow and highlighting the changes in UI design and user interaction.
+
+
+
+
+
