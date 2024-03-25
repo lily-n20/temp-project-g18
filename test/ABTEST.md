@@ -52,6 +52,32 @@ We believe that the current onboarding flow is leading to a high dropout rate am
 Include mockups for both the control and test versions, illustrating the differences in the onboarding flow and highlighting the changes in UI design and user interaction.
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## A/B Test Name:
+Adoption Software Framework Optimization
 
+### User Story Number:
+US002
 
+### Metric (from the HEART grid):
+Adoption
+
+### Hypothesis:
+We hypothesize that the current adoption rate of our software is hindered by complex onboarding processes, resulting in user drop-off. By simplifying the initial setup experience with a guided tour featuring interactive tooltips, we anticipate an increase in user adoption.
+
+### Experiment:
+- **Audience**: All new users will be divided into two groups: 50% exposed to the current onboarding process (control group) and 50% exposed to the optimized onboarding flow (experimental group).
+- **Duration**: The experiment will run for four weeks to observe the impact on adoption rates.
+- **Success Metrics**: Success will be measured by observing the increase in user adoption rates and a reduction in drop-off rates during the onboarding process.
+- **Tracking Setup**: Firebase Analytics will be employed to track user interactions during the onboarding process. Metrics tracked will include completion rates for each onboarding step, time spent on each step, and engagement with the guided tour elements.
+- 
+### Variations:
+- **Control Version**:
+Users experience the current onboarding process without any guided tour or interactive tooltips.
+
+- **Test Version**:
+Users are guided through the onboarding process with a tour featuring interactive tooltips providing explanations and guidance for each step.
+
+### Design Mockups:
+Include mockups for both the control and test versions, highlighting the differences in the onboarding flow and showcasing the introduction of interactive tooltips in the test version for improved user guidance and engagement.
