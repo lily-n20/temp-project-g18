@@ -81,10 +81,10 @@ We believe that the current onboarding flow is leading to a high dropout rate am
 ### Design Mockups:
 Include mockups for both the control and test versions, illustrating the differences in the onboarding flow and highlighting the changes in UI design and user interaction.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### A/B Test Name:
 "Welcome Flow Redesign for Enhanced User Retention"
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### User Story Number:
 US004
