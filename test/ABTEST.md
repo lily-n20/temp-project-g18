@@ -4,7 +4,7 @@
 NPS Score Enhancement through UI Redesign
 
 ### User Story Number:
-US002
+US001
 
 ### Metric (from the HEART grid):
 Net Promoter Score (NPS)
@@ -27,7 +27,7 @@ We believe that the current placement and design of our NPS survey are leading t
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## A/B Test Name:
+### A/B Test Name:
 Adoption Software Framework Optimization
 
 ### User Story Number:
@@ -57,7 +57,7 @@ Include mockups for both the control and test versions, highlighting the differe
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## A/B Test Name:
+### A/B Test Name:
 Daily Active Users (DAU) Increase through Onboarding Flow Optimization
 
 ### User Story Number:
@@ -80,3 +80,31 @@ We believe that the current onboarding flow is leading to a high dropout rate am
 - Test Version: An optimized onboarding flow with streamlined steps, interactive tutorials, and personalized recommendations.
 ### Design Mockups:
 Include mockups for both the control and test versions, illustrating the differences in the onboarding flow and highlighting the changes in UI design and user interaction.
+
+### A/B Test Name:
+"Welcome Flow Redesign for Enhanced User Retention"
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### User Story Number:
+US004
+
+### Metric (from the HEART grid):
+Retention
+
+### Hypothesis:
+We hypothesize that new users are not fully engaging with the app because the current welcome flow does not effectively highlight key features. This leads to a lack of understanding of the app's value proposition, which negatively affects retention. By redesigning the welcome flow to include interactive tutorials and feature highlights, we believe users will better understand how to use the app, find immediate value, and therefore be more likely to return.
+
+### Experiment:
+- **Audience**: Split new users into two groups. Group A will experience the current welcome flow, while Group B will go through the new interactive welcome flow.
+- **Duration**: Run the experiment for 1 month to collect enough data for meaningful insights.
+- **Success Metrics**: The primary metric will be the 7-day and 30-day retention rates. Secondary metrics could include feature engagement within the first 3 days post-sign-up.
+- **Tracking Setup**: Using Firebase Analytics, we'll track 'session_start' events and custom events for each step completed in the welcome flow. For Group B, we'll also track interactions with the new tutorial elements.
+
+### Variations:
+- **Control Version (Group A)**: The existing welcome flow, which includes basic screen walkthroughs.
+- **Test Version (Group B)**: A new welcome flow with an interactive tutorial, highlighting key features and providing example tasks the user can follow.
+
+### Design Work for Variations:
+- The redesign will involve creating new screens and interactive elements that guide the user through initial tasks in the app.
+- Mockups and user flow diagrams will be developed to visualize the changes before implementation.
