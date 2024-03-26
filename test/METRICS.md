@@ -22,4 +22,4 @@
 
 **CTR for completion of the Golden Path**
 
-- Explain How we are collecting this data
+- **How to collect**: Track click-through rates for completing the Golden Path using event tracking in the app.
