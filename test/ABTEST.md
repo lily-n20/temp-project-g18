@@ -108,3 +108,32 @@ We hypothesize that new users are not fully engaging with the app because the cu
 ### Design Work for Variations:
 - The redesign will involve creating new screens and interactive elements that guide the user through initial tasks in the app.
 - Mockups and user flow diagrams will be developed to visualize the changes before implementation.
+
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### A/B Test Name:
+"Enhanced User Engagement through Interactive Onboarding"
+
+### User Story Number:
+US005
+
+### Metric (from the HEART grid):
+Engagement
+
+### Hypothesis:
+We hypothesize that new users are not fully engaging with the app because the current onboarding experience lacks personalization and fails to highlight the app's key features. This leads to a lower level of initial engagement and a higher likelihood of users abandoning the app early on. By redesigning the onboarding process to include interactive elements, personalized recommendations, and feature highlights, we believe users will have a clearer understanding of the app's value proposition and be more likely to engage with it over time.
+
+### Experiment:
+- **Audience**: New users will be randomly assigned to one of two groups. Group A will experience the current onboarding process, while Group B will go through the new interactive onboarding process.
+- **Duration**: The experiment will run for 4 weeks to gather sufficient data for analysis.
+- **Success Metrics**: The primary metric will be the overall engagement level, measured by the number of actions taken within the app (e.g., clicks, swipes, time spent). Secondary metrics could include the number of completed profiles and the frequency of return visits.
+- **Tracking Setup**: We will use Firebase Analytics to track user interactions and events within the app for both groups. Custom events will be set up to monitor specific actions related to onboarding and engagement.
+
+### Variations:
+- **Control Version (Group A)**: The existing onboarding process, which consists of a series of static screens introducing the app's features.
+- **Test Version (Group B)**: The new onboarding process, which includes interactive elements such as quizzes, personalized recommendations, and guided tours of key features.
+
+### Design Work for Variations:
+- The redesign will involve creating new screens and interactive elements that provide a more engaging and personalized onboarding experience.
+- Mockups and user flow diagrams will be developed to visualize the changes and ensure a smooth transition between onboarding steps.
+
