@@ -48,3 +48,4 @@ The team will enforce its own rules through open communication and mutual accoun
 ![Lily's sig](src/lily.JPG)
 ![Ethan's sig](src/EthansSignature.png)
 ![Arianna's sig](src/Ariannasignature.png)
+![signature (1)](https://github.com/lily-n20/temp-project-g18/assets/113260426/11d6f205-1c4f-47ba-8ea1-3f8cf55d231f)
