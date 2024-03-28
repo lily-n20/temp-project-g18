@@ -1,4 +1,4 @@
-## Group Member and Contact Info:
+## Group Members and Contact Info:
 
 1. Lily Nguyen: lily.nguyen@uri.edu
 2. Ethan Moreta: ethanmoreta@uri.edu
