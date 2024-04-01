@@ -44,19 +44,75 @@
         "DesignerHeight": 667,
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
-        "isSimple": true
+        "isSimple": true,
+        "Scrollable": true
     },
     "children": [
         {
             "type": "Button",
             "translatedName": "Button",
             "properties": {
-                "Text": "Button",
+                "Text": "R E V I E W  G A M E",
                 "TextColor": "#FFFFFF",
-                "FontSize": 16,
+                "FontSize": 15,
                 "Font": "",
                 "CustomFont": "",
-                "BackgroundColor": "rgba(93, 122, 252, 100)",
+                "BackgroundColor": "rgba(83, 47, 13, 1)",
+                "Height": 49,
+                "Width": 311,
+                "Visible": true,
+                "X": 32,
+                "Y": 421,
+                "RelativeX": 32,
+                "RelativeY": 421,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "borderRadius": 30,
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "30%",
+                    "top": "29.30594334180566%",
+                    "display": "flex"
+                },
+                "FontBold": true,
+                "FontItalic": false,
+                "Raised": false,
+                "Disabled": false,
+                "ParentId": "c6130b14-0963-4c49-8967-fefdd466643a",
+                "position": "absolute",
+                "edgeOffsets": 421
+            },
+            "children": [],
+            "id": "35d955e6-e7e5-425c-9c74-683b477fcf8d",
+            "thunkableVersion": 450,
+            "bindings": null,
+            "name": "Button: Review Game"
+        },
+        {
+            "type": "Button",
+            "translatedName": "Button",
+            "properties": {
+                "Text": "R E V I E W  G A M E",
+                "TextColor": "#FFFFFF",
+                "FontSize": 15,
+                "Font": "Poppins",
+                "CustomFont": "",
+                "BackgroundColor": "rgba(83, 47, 13, 1)",
                 "Height": 49,
                 "Width": 311,
                 "Visible": true,
@@ -74,7 +130,7 @@
                     "paddingBottom": 0,
                     "paddingLeft": 0,
                     "paddingRight": 0,
-                    "borderRadius": 15,
+                    "borderRadius": 30,
                     "shadowColor": "rgba(0, 0, 0, 0)",
                     "shadowOpacity": 0,
                     "scaledShadowOpacity": 0,
@@ -88,7 +144,7 @@
                     "top": "29.30594334180566%",
                     "display": "flex"
                 },
-                "FontBold": false,
+                "FontBold": true,
                 "FontItalic": false,
                 "Raised": false,
                 "Disabled": false,
@@ -99,7 +155,7 @@
             "children": [],
             "id": "a84a8623-770c-4260-a3cf-a7902cc902fd",
             "thunkableVersion": 450,
-            "name": "Button1"
+            "name": "Button: Game"
         },
         {
             "type": "Label",
