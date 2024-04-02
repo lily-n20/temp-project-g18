@@ -1,0 +1,93 @@
+{
+    "type": "Screen",
+    "translatedName": "Screen",
+    "reactType": "ViewWithProps",
+    "properties": {
+        "Height": "Fill container",
+        "Width": "Fill container",
+        "Layout": "column",
+        "BackgroundColor": "rgba(17, 14, 2, 1)",
+        "Justification": "center",
+        "Alignment": "center",
+        "Visible": true,
+        "style": {
+            "marginTop": 0,
+            "marginBottom": 0,
+            "marginLeft": 0,
+            "marginRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "shadowColor": "rgba(0, 0, 0, 0)",
+            "shadowOpacity": 0,
+            "scaledShadowOpacity": 0,
+            "shadowRadius": 0,
+            "shadowOffset": {
+                "width": 0,
+                "height": 0
+            },
+            "flexDirection": "column",
+            "justifyContent": "center",
+            "alignItems": "center",
+            "display": "flex",
+            "backgroundColor": "rgba(17, 14, 2, 1)"
+        },
+        "ShowStatusBar": true,
+        "StatusBarStyle": "default",
+        "TranslucentStatusBar": false,
+        "StatusBarColor": "rgba(0,0,0,0.53)",
+        "TabNavigationOptions": {
+            "tabBarVisible": true
+        },
+        "TabNavigatorIcon": {},
+        "DrawerNavigationOptions": {},
+        "StackNavigationOptions": {
+            "headerStyle": {}
+        },
+        "ScreenOrientation": "portrait",
+        "DesignerHeight": 667,
+        "DesignerWidth": 375,
+        "ResponsiveWidth": 375,
+        "isSimple": true,
+        "navigationOptions": {
+            "headerStyle": {}
+        },
+        "tabNavigationOptions": {}
+    },
+    "children": [
+        {
+            "type": "Lottie",
+            "label": "Animation",
+            "translatedName": "Animation",
+            "properties": {
+                "Animation": "Animation - 1712077862930 (1).json",
+                "Loop": true,
+                "Height": 398,
+                "Width": 316,
+                "Visible": true,
+                "X": 29,
+                "Y": 266,
+                "RelativeX": 29,
+                "RelativeY": 266,
+                "ResizeMode": "STRETCH",
+                "ParentId": "6e2e2e60-9668-4e87-9336-a42baed229b5",
+                "position": "absolute",
+                "edgeOffsets": 266,
+                "style": {
+                    "position": "absolute",
+                    "left": "24.399995930989583%",
+                    "top": "48.44034815478003%",
+                    "display": "flex"
+                }
+            },
+            "children": [],
+            "id": "86477bf9-6793-4df2-aac8-2b79e73ffe97",
+            "thunkableVersion": 450,
+            "name": "Animation2"
+        }
+    ],
+    "id": "6e2e2e60-9668-4e87-9336-a42baed229b5",
+    "thunkableVersion": 450,
+    "name": "Congratulations"
+}

@@ -126,9 +126,9 @@
                 "Width": 248,
                 "Visible": true,
                 "X": 65,
-                "Y": 599,
+                "Y": 587,
                 "RelativeX": 65,
-                "RelativeY": 599,
+                "RelativeY": 587,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -159,7 +159,7 @@
                 "Disabled": false,
                 "ParentId": "560ce776-801e-4914-98b4-5f882edf0f2a",
                 "position": "absolute",
-                "edgeOffsets": 599
+                "edgeOffsets": 587
             },
             "children": [],
             "id": "3f944bda-61b9-42b6-83bf-8bb33b823768",
@@ -180,9 +180,9 @@
                 "Width": 181,
                 "Visible": true,
                 "X": 95,
-                "Y": 534,
+                "Y": 524,
                 "RelativeX": 95,
-                "RelativeY": 534,
+                "RelativeY": 524,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -213,7 +213,7 @@
                 "Disabled": false,
                 "ParentId": "ee4b996c-6f9a-4224-aed8-a9bd45d28a16",
                 "position": "absolute",
-                "edgeOffsets": 534.75
+                "edgeOffsets": 524
             },
             "children": [],
             "id": "1998cc2a-90ca-4c61-a976-8f5caab66a5a",
@@ -231,10 +231,10 @@
                 "Height": 51,
                 "Width": 300,
                 "Visible": true,
-                "X": 42,
-                "Y": 404,
-                "RelativeX": 42,
-                "RelativeY": 404,
+                "X": 36,
+                "Y": 405,
+                "RelativeX": 36,
+                "RelativeY": 405,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(0, 0, 0, 1)",
@@ -278,7 +278,7 @@
                 "underlineColorAndroid": "rgba(0, 0, 0, 0)",
                 "ParentId": "c774cf1d-84ba-46d8-9839-18dd2030f07f",
                 "position": "absolute",
-                "edgeOffsets": 404,
+                "edgeOffsets": 405,
                 "placeholder": " c o n f i r m   p a s s w o r d . . .",
                 "defaultValue": "",
                 "secureTextEntry": true
