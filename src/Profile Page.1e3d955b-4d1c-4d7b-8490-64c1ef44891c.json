@@ -1,4 +1,5 @@
 {
+    "id": "1e3d955b-4d1c-4d7b-8490-64c1ef44891c",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -584,7 +585,6 @@
             "name": "Animation1"
         }
     ],
-    "id": "1e3d955b-4d1c-4d7b-8490-64c1ef44891c",
     "thunkableVersion": 448,
     "name": "Profile Page"
 }
