@@ -1,4 +1,5 @@
 {
+    "id": "ee4b996c-6f9a-4224-aed8-a9bd45d28a16",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -214,7 +215,6 @@
             "name": "Image1"
         }
     ],
-    "id": "ee4b996c-6f9a-4224-aed8-a9bd45d28a16",
     "thunkableVersion": 447,
     "name": "Landing Screen"
 }

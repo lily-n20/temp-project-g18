@@ -1,4 +1,5 @@
 {
+    "id": "3ac6bbbb-33c4-44df-adcc-5380e91b6d05",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -671,7 +672,6 @@
             "name": "Group: Game Screen"
         }
     ],
-    "id": "3ac6bbbb-33c4-44df-adcc-5380e91b6d05",
     "thunkableVersion": 450,
     "name": "Game"
 }

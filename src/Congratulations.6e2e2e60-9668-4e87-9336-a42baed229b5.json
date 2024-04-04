@@ -1,4 +1,5 @@
 {
+    "id": "6e2e2e60-9668-4e87-9336-a42baed229b5",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -87,7 +88,6 @@
             "name": "Animation2"
         }
     ],
-    "id": "6e2e2e60-9668-4e87-9336-a42baed229b5",
     "thunkableVersion": 450,
     "name": "Congratulations"
 }
