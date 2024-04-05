@@ -1,4 +1,5 @@
 {
+    "id": "c6130b14-0963-4c49-8967-fefdd466643a",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -1253,7 +1254,6 @@
             "name": "Group: Lesson1"
         }
     ],
-    "id": "c6130b14-0963-4c49-8967-fefdd466643a",
     "thunkableVersion": 450,
     "name": "Lessons"
 }

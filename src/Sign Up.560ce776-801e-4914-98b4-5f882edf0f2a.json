@@ -1,4 +1,5 @@
 {
+    "id": "560ce776-801e-4914-98b4-5f882edf0f2a",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -537,7 +538,6 @@
             "name": "Logo:Sign Up"
         }
     ],
-    "id": "560ce776-801e-4914-98b4-5f882edf0f2a",
     "thunkableVersion": 447,
     "name": "Sign Up"
 }
