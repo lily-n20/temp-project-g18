@@ -10,7 +10,9 @@
                             "translatedName": "Web API",
                             "isApi": true,
                             "reactType": "Web",
-                            "properties": {},
+                            "properties": {
+                                "Headers": {}
+                            },
                             "children": [],
                             "id": "2df86930-91c3-4af8-b797-0fbbf3fd4a0b",
                             "thunkableVersion": 451,
@@ -620,7 +622,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "0",
+            "totalCopy": "3",
             "totalStar": "0",
             "starAction": "star",
             "variables": {
@@ -668,6 +670,11 @@
                     "scope": "APP",
                     "name": "user ID",
                     "screenId": "560ce776-801e-4914-98b4-5f882edf0f2a"
+                },
+                "e9a5b0b6-832f-4a06-829d-7e5990eef04a": {
+                    "scope": "APP",
+                    "name": "rating",
+                    "screenId": "aa882a0f-38e9-4e0b-9142-43d08bb430ea"
                 }
             },
             "defaultDesignerDevice": "PHONE",

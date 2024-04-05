@@ -57,7 +57,7 @@
             "properties": {
                 "Height": 52,
                 "Width": 198,
-                "Visible": true,
+                "Visible": false,
                 "X": 93,
                 "Y": 28,
                 "RelativeX": 93,
@@ -73,7 +73,7 @@
                     "position": "absolute",
                     "left": "2.222216796875%",
                     "top": "34.5327397336488%",
-                    "display": "flex"
+                    "display": "none"
                 },
                 "resizeMode": "contain"
             },
@@ -131,7 +131,7 @@
                     "children": [],
                     "id": "59e7f791-d89b-4400-979d-07437b25330f",
                     "thunkableVersion": 451,
-                    "name": "Button: Comfirm"
+                    "name": "Button: Confirm"
                 },
                 {
                     "type": "TextInput",
