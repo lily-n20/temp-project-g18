@@ -833,14 +833,14 @@
                         "TextItemsColor": "rgba(176, 176, 176, 1)",
                         "TextItemsBackgroundColor": "rgba(0,0,0,0)",
                         "TextItemsFontSize": 16,
-                        "ShowArrow": true,
-                        "Height": 159,
-                        "Width": 313,
+                        "ShowArrow": false,
+                        "Height": 163,
+                        "Width": 305,
                         "Visible": true,
-                        "X": 36,
-                        "Y": 473,
-                        "RelativeX": 7,
-                        "RelativeY": 40,
+                        "X": 36.66666793823242,
+                        "Y": 471,
+                        "RelativeX": 7.666667938232422,
+                        "RelativeY": 38,
                         "ResizeMode": "STRETCH",
                         "Justification": "center",
                         "Alignment": "center",
@@ -870,7 +870,7 @@
                         },
                         "ParentId": "1e3d955b-4d1c-4d7b-8490-64c1ef44891c",
                         "position": "absolute",
-                        "edgeOffsets": 473
+                        "edgeOffsets": 471.66668701171875
                     },
                     "children": [],
                     "id": "aacb866e-5c9e-4c59-9c00-16028e72bf97",
@@ -881,7 +881,7 @@
             "id": "4cea6dab-a859-4939-8b68-fac895cb8698",
             "thunkableVersion": 450,
             "bindings": null,
-            "name": "Group: Profile pic1"
+            "name": "Group: Song List"
         },
         {
             "type": "Group",

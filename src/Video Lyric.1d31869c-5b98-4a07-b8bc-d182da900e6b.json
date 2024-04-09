@@ -308,7 +308,7 @@
                     "properties": {
                         "Text": "M U S I C  T I T L E",
                         "FontSize": 18,
-                        "Font": "",
+                        "Font": "Poppins",
                         "CustomFont": "",
                         "LineHeight": 1,
                         "Color": "rgba(0, 0, 0, 1)",
@@ -316,10 +316,10 @@
                         "Height": 27,
                         "Width": 167,
                         "Visible": true,
-                        "X": 112.04166665673256,
-                        "Y": 10.989583373069763,
-                        "RelativeX": 113.04166665673256,
-                        "RelativeY": 11.989583373069763,
+                        "X": 102,
+                        "Y": 12,
+                        "RelativeX": 103,
+                        "RelativeY": 13,
                         "ResizeMode": "STRETCH",
                         "style": {
                             "color": "rgba(0, 0, 0, 1)",
@@ -357,12 +357,14 @@
                             "top": "0.43337706146926536%",
                             "lineHeight": 1,
                             "display": "flex",
-                            "fontWeight": "bold"
+                            "fontWeight": "bold",
+                            "textAlign": "center"
                         },
                         "ParentId": "1d31869c-5b98-4a07-b8bc-d182da900e6b",
                         "position": "absolute",
-                        "edgeOffsets": 11.666666686534882,
-                        "children": "M U S I C  T I T L E"
+                        "edgeOffsets": 12.989583373069763,
+                        "children": "M U S I C  T I T L E",
+                        "TextAlign": "center"
                     },
                     "children": [],
                     "id": "7e90071c-b83b-4e8a-afd1-8175d8e9e20b",
