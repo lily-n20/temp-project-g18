@@ -6,22 +6,6 @@
                     "id": "ApiContainer",
                     "children": [
                         {
-                            "type": "Open AI Services",
-                            "translatedName": "Open AI Service",
-                            "isApi": true,
-                            "reactType": "OpenAIServices",
-                            "properties": {
-                                "APIKey": "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",
-                                "RequestSettings": {
-                                    "model": "gpt-3.5-turbo"
-                                }
-                            },
-                            "children": [],
-                            "id": "93208dae-7e9f-41d7-9586-9212e3150d44",
-                            "thunkableVersion": 452,
-                            "name": "Open_AI_Service1"
-                        },
-                        {
                             "type": "Web API",
                             "translatedName": "Web API",
                             "isApi": true,
