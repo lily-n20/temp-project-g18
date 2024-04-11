@@ -41,7 +41,7 @@
         "TabNavigationOptions": {
             "tabBarVisible": true
         },
-        "ScreenOrientation": "portrait",
+        "ScreenOrientation": "landscape",
         "DesignerHeight": 667,
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
