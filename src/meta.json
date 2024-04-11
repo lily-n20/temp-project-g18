@@ -41,7 +41,10 @@
                             "children": [],
                             "id": "c47aa2c7-e6a3-47bf-8da3-8e7b052ab63e",
                             "thunkableVersion": 450,
-                            "name": "Web_API1"
+                            "name": "Lyrics API",
+                            "properties": {
+                                "URL": "https://api.lyrics.ovh/v1/artist/title"
+                            }
                         },
                         {
                             "type": "Alert",
@@ -637,7 +640,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "3",
+            "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
             "variables": {
@@ -690,6 +693,16 @@
                     "scope": "APP",
                     "name": "rating",
                     "screenId": "aa882a0f-38e9-4e0b-9142-43d08bb430ea"
+                },
+                "b422999a-734c-4654-8e9f-91097b331360": {
+                    "scope": "APP",
+                    "name": "artist",
+                    "screenId": "1d31869c-5b98-4a07-b8bc-d182da900e6b"
+                },
+                "fd542cdb-7eaa-4433-acc4-12200b4ea4c2": {
+                    "scope": "APP",
+                    "name": "title",
+                    "screenId": "1d31869c-5b98-4a07-b8bc-d182da900e6b"
                 }
             },
             "defaultDesignerDevice": "PHONE",
