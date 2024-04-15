@@ -93,13 +93,13 @@
                         "Color": "rgba(0, 0, 0, 1)",
                         "FontWeight": "bold",
                         "TextAlign": "center",
-                        "Height": 40,
-                        "Width": 265,
+                        "Height": 42,
+                        "Width": 267,
                         "Visible": true,
                         "X": 60,
-                        "Y": 19,
+                        "Y": 18.994140625,
                         "RelativeX": 63,
-                        "RelativeY": 19,
+                        "RelativeY": 18.994140625,
                         "ResizeMode": "STRETCH",
                         "style": {
                             "color": "rgba(0, 0, 0, 1)",
@@ -142,7 +142,7 @@
                         },
                         "ParentId": "aa882a0f-38e9-4e0b-9142-43d08bb430ea",
                         "position": "absolute",
-                        "edgeOffsets": 26.33333396911621,
+                        "edgeOffsets": 18.994140625,
                         "children": "Y O U R  L E S S O N S"
                     },
                     "children": [],
@@ -279,10 +279,10 @@
                 "Height": 52,
                 "Width": 300,
                 "Visible": true,
-                "X": 44,
-                "Y": 477,
-                "RelativeX": 44,
-                "RelativeY": 477,
+                "X": 41,
+                "Y": 474,
+                "RelativeX": 41,
+                "RelativeY": 474,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -313,7 +313,7 @@
                 "Disabled": false,
                 "ParentId": "c6130b14-0963-4c49-8967-fefdd466643a",
                 "position": "absolute",
-                "edgeOffsets": 477
+                "edgeOffsets": 474
             },
             "children": [],
             "id": "02b05a71-513d-4ae6-b5f2-c0005b182fd9",
@@ -575,6 +575,36 @@
             },
             "children": [
                 {
+                    "type": "Lottie",
+                    "label": "Animation",
+                    "translatedName": "Animation",
+                    "properties": {
+                        "Animation": "Animation - 1713145610802.json",
+                        "Loop": true,
+                        "Height": 103,
+                        "Width": 121,
+                        "Visible": true,
+                        "X": 22,
+                        "Y": 561,
+                        "RelativeX": 8,
+                        "RelativeY": 18,
+                        "ResizeMode": "STRETCH",
+                        "ParentId": "c6130b14-0963-4c49-8967-fefdd466643a",
+                        "position": "absolute",
+                        "edgeOffsets": 561,
+                        "style": {
+                            "position": "absolute",
+                            "left": "14.663541666666667%",
+                            "top": "35.5510980966325%",
+                            "display": "flex"
+                        }
+                    },
+                    "children": [],
+                    "id": "79a86d92-fe06-49e8-a2bd-b5fadf12ab23",
+                    "thunkableVersion": 452,
+                    "name": "Animation: Lesson 3"
+                },
+                {
                     "type": "Label",
                     "translatedName": "Label",
                     "reactType": "Text",
@@ -709,51 +739,6 @@
                     "thunkableVersion": 450,
                     "bindings": null,
                     "name": "Label: L3 Tite"
-                },
-                {
-                    "type": "Image",
-                    "translatedName": "Image",
-                    "properties": {
-                        "resizeMode": "stretch",
-                        "Height": 97,
-                        "Width": 110,
-                        "Visible": true,
-                        "X": 33,
-                        "Y": 576,
-                        "RelativeX": 19,
-                        "RelativeY": 33,
-                        "ResizeMode": "STRETCH",
-                        "style": {
-                            "marginTop": 0,
-                            "marginBottom": 0,
-                            "marginLeft": 0,
-                            "marginRight": 0,
-                            "paddingTop": 0,
-                            "paddingBottom": 0,
-                            "paddingLeft": 0,
-                            "paddingRight": 0,
-                            "shadowColor": "rgba(0, 0, 0, 0)",
-                            "shadowOpacity": 0,
-                            "scaledShadowOpacity": 0,
-                            "shadowRadius": 0,
-                            "shadowOffset": {
-                                "width": 0,
-                                "height": 0
-                            },
-                            "position": "absolute",
-                            "left": "12.7111083984375%",
-                            "top": "10.269865067466267%",
-                            "display": "flex"
-                        },
-                        "ParentId": "c6130b14-0963-4c49-8967-fefdd466643a",
-                        "position": "absolute",
-                        "edgeOffsets": 442
-                    },
-                    "children": [],
-                    "id": "bd23149a-be72-4bfb-9294-917ddb6d5060",
-                    "thunkableVersion": 450,
-                    "bindings": null,
-                    "name": "Image: Lesson3"
                 }
             ],
             "id": "3eb1ffba-cec7-4b58-bad9-70a68bef3aaf",
@@ -795,49 +780,34 @@
             },
             "children": [
                 {
-                    "type": "Image",
-                    "translatedName": "Image",
+                    "type": "Lottie",
+                    "label": "Animation",
+                    "translatedName": "Animation",
                     "properties": {
-                        "resizeMode": "stretch",
-                        "Height": 97,
-                        "Width": 110,
+                        "Animation": "Animation - 1713145788530.json",
+                        "Loop": true,
+                        "Height": 108,
+                        "Width": 116,
                         "Visible": true,
-                        "X": 240,
-                        "Y": 336,
-                        "RelativeX": 228,
-                        "RelativeY": 26,
+                        "X": 238,
+                        "Y": 330,
+                        "RelativeX": 226,
+                        "RelativeY": 20,
                         "ResizeMode": "STRETCH",
-                        "style": {
-                            "marginTop": 0,
-                            "marginBottom": 0,
-                            "marginLeft": 0,
-                            "marginRight": 0,
-                            "paddingTop": 0,
-                            "paddingBottom": 0,
-                            "paddingLeft": 0,
-                            "paddingRight": 0,
-                            "shadowColor": "rgba(0, 0, 0, 0)",
-                            "shadowOpacity": 0,
-                            "scaledShadowOpacity": 0,
-                            "shadowRadius": 0,
-                            "shadowOffset": {
-                                "width": 0,
-                                "height": 0
-                            },
-                            "position": "absolute",
-                            "left": "12.7111083984375%",
-                            "top": "10.269865067466267%",
-                            "display": "flex"
-                        },
                         "ParentId": "c6130b14-0963-4c49-8967-fefdd466643a",
                         "position": "absolute",
-                        "edgeOffsets": 268
+                        "edgeOffsets": 330,
+                        "style": {
+                            "position": "absolute",
+                            "left": "64.53020833333333%",
+                            "top": "53.24245973645681%",
+                            "display": "flex"
+                        }
                     },
                     "children": [],
-                    "id": "4bc1aac0-bdba-405a-8297-aac1efe8b2a0",
-                    "thunkableVersion": 450,
-                    "bindings": null,
-                    "name": "Image: Lesson7"
+                    "id": "3dd2b6b1-e279-4501-98f4-02c9c933858c",
+                    "thunkableVersion": 452,
+                    "name": "Animation: Lesson 2"
                 },
                 {
                     "type": "Label",
@@ -1069,49 +1039,34 @@
             },
             "children": [
                 {
-                    "type": "Image",
-                    "translatedName": "Image",
+                    "type": "Lottie",
+                    "label": "Animation",
+                    "translatedName": "Animation",
                     "properties": {
-                        "resizeMode": "stretch",
-                        "Height": 97,
-                        "Width": 110,
+                        "Animation": "Animation - 1713145187949.json",
+                        "Loop": true,
+                        "Height": 111,
+                        "Width": 128,
                         "Visible": true,
-                        "X": 34,
-                        "Y": 111,
-                        "RelativeX": 22,
-                        "RelativeY": 29,
+                        "X": 15,
+                        "Y": 89,
+                        "RelativeX": 3,
+                        "RelativeY": 7,
                         "ResizeMode": "STRETCH",
-                        "style": {
-                            "marginTop": 0,
-                            "marginBottom": 0,
-                            "marginLeft": 0,
-                            "marginRight": 0,
-                            "paddingTop": 0,
-                            "paddingBottom": 0,
-                            "paddingLeft": 0,
-                            "paddingRight": 0,
-                            "shadowColor": "rgba(0, 0, 0, 0)",
-                            "shadowOpacity": 0,
-                            "scaledShadowOpacity": 0,
-                            "shadowRadius": 0,
-                            "shadowOffset": {
-                                "width": 0,
-                                "height": 0
-                            },
-                            "position": "absolute",
-                            "left": "12.7111083984375%",
-                            "top": "10.269865067466267%",
-                            "display": "flex"
-                        },
                         "ParentId": "c6130b14-0963-4c49-8967-fefdd466643a",
                         "position": "absolute",
-                        "edgeOffsets": 49
+                        "edgeOffsets": 89,
+                        "style": {
+                            "position": "absolute",
+                            "left": "17.596875%",
+                            "top": "18.609370424597365%",
+                            "display": "flex"
+                        }
                     },
                     "children": [],
-                    "id": "dd9f9dfe-5392-4deb-ba51-2c53e9453bcf",
-                    "thunkableVersion": 450,
-                    "bindings": null,
-                    "name": "Image: Lesson1"
+                    "id": "45c42f09-50e4-46e2-ba1b-543bb60e26f3",
+                    "thunkableVersion": 452,
+                    "name": "Animation: Lesson 1"
                 },
                 {
                     "type": "Label",
