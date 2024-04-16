@@ -6,7 +6,7 @@
 
 **Net Promoter Score (NPS)**
 
-- **How to collect**: Implement a survey at the end of the Golden Path in the app to collect NPS data, storing responses in the database.
+- **How to collect**: Implement a star rating system in the app to collect NPS data, storing responses in the database.
 
 **Adoption**
 
