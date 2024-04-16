@@ -279,7 +279,7 @@
                     "id": "b9dcc00b-04b2-45ed-98ec-09aec25ef9dc",
                     "thunkableVersion": 452,
                     "bindings": null,
-                    "name": "Button: M5"
+                    "name": "Button: S5"
                 },
                 {
                     "type": "Button",
@@ -334,7 +334,7 @@
                     "id": "3875b3ad-b4be-4c32-be7d-5c54a92743bb",
                     "thunkableVersion": 452,
                     "bindings": null,
-                    "name": "Button: M4"
+                    "name": "Button: S4"
                 },
                 {
                     "type": "Button",
@@ -349,10 +349,10 @@
                         "Height": 40,
                         "Width": 106,
                         "Visible": true,
-                        "X": 49.66666793823242,
-                        "Y": 312.6666717529297,
-                        "RelativeX": 16,
-                        "RelativeY": 203,
+                        "X": 49.6667,
+                        "Y": 312.667,
+                        "RelativeX": 16.000032061767577,
+                        "RelativeY": 203.00032824707029,
                         "ResizeMode": "STRETCH",
                         "style": {
                             "marginTop": 0,
@@ -389,7 +389,7 @@
                     "id": "aaa1e3b3-d4b9-4c99-9539-9834a8f22871",
                     "thunkableVersion": 452,
                     "bindings": null,
-                    "name": "Button: M3"
+                    "name": "Button: S3"
                 },
                 {
                     "type": "Button",
@@ -444,7 +444,7 @@
                     "id": "80374897-a8bf-4731-b6c1-a319a78a488a",
                     "thunkableVersion": 452,
                     "bindings": null,
-                    "name": "Button: M2"
+                    "name": "Button: S2"
                 },
                 {
                     "type": "Button",
@@ -499,7 +499,7 @@
                     "id": "a000d6a7-3a34-40fc-bf03-3af7508ff7ad",
                     "thunkableVersion": 452,
                     "bindings": null,
-                    "name": "Button: M10"
+                    "name": "Button: E1"
                 },
                 {
                     "type": "Button",
@@ -554,7 +554,7 @@
                     "id": "14519006-f51d-4f60-bc15-a9dfedef2a31",
                     "thunkableVersion": 452,
                     "bindings": null,
-                    "name": "Button: M9"
+                    "name": "Button: E2"
                 },
                 {
                     "type": "Button",
@@ -609,7 +609,7 @@
                     "id": "1cc62a57-29d3-47a0-be0e-5cfff5616c4d",
                     "thunkableVersion": 452,
                     "bindings": null,
-                    "name": "Button: M8"
+                    "name": "Button: E3"
                 },
                 {
                     "type": "Button",
@@ -664,7 +664,7 @@
                     "id": "e16b77ca-b1b5-4a4a-bde3-1fbb35d6ea8a",
                     "thunkableVersion": 452,
                     "bindings": null,
-                    "name": "Button: M7"
+                    "name": "Button: E4"
                 },
                 {
                     "type": "Button",
@@ -719,7 +719,7 @@
                     "id": "1564011e-1aa7-4dd4-8dcc-91240941be69",
                     "thunkableVersion": 452,
                     "bindings": null,
-                    "name": "Button: M6"
+                    "name": "Button: E5"
                 },
                 {
                     "type": "Button",
@@ -734,10 +734,10 @@
                         "Height": 40,
                         "Width": 106,
                         "Visible": true,
-                        "X": 49.66666793823242,
-                        "Y": 149.6666717529297,
-                        "RelativeX": 16,
-                        "RelativeY": 40,
+                        "X": 48.6667,
+                        "Y": 149.667,
+                        "RelativeX": 15.000032061767577,
+                        "RelativeY": 40.000328247070314,
                         "ResizeMode": "STRETCH",
                         "style": {
                             "marginTop": 0,
@@ -773,7 +773,7 @@
                     "children": [],
                     "id": "333b9dce-7e83-4a0b-8f32-096a5e745396",
                     "thunkableVersion": 450,
-                    "name": "Button: M1"
+                    "name": "Button: S1"
                 }
             ],
             "id": "e80c70e1-6f39-4a41-b07c-205302cb934e",
