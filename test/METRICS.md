@@ -14,7 +14,7 @@
 
 **Daily Active Users (DAU)**
 
-- **How to collect**: Implement a user authentication system that requires the user to log in and will identify anyone who logs onto the app and track their activity and how long they use the app for.
+- **How to collect**: Implement a user authentication system that requires the user to log in and will identify anyone who logs onto the app and track how many times they log in to the app.
 
 **Retention**
 
