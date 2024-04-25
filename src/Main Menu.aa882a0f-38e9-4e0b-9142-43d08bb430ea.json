@@ -767,8 +767,8 @@
             "translatedName": "Group",
             "reactType": "ViewWithProps",
             "properties": {
-                "Height": 146,
-                "Width": 221,
+                "Height": 148,
+                "Width": 223,
                 "Visible": true,
                 "X": 77,
                 "Y": 406,
@@ -785,7 +785,8 @@
                     "position": "absolute",
                     "left": "23.155550130208333%",
                     "top": "58.01006357172976%",
-                    "display": "flex"
+                    "display": "flex",
+                    "borderRadius": 6
                 },
                 "resizeMode": "contain"
             },
@@ -1096,6 +1097,64 @@
                 "resizeMode": "contain"
             },
             "children": [
+                {
+                    "type": "Button",
+                    "translatedName": "Button",
+                    "properties": {
+                        "Text": "",
+                        "TextColor": "#FFFFFF",
+                        "FontSize": 16,
+                        "Font": "",
+                        "CustomFont": "",
+                        "BackgroundColor": "rgba(208, 2, 27, 0.21)",
+                        "BackgroundPicture": "log out icon.png",
+                        "BackgroundPictureResizeMode": "contain",
+                        "Height": 29,
+                        "Width": 31,
+                        "Visible": true,
+                        "X": 324,
+                        "Y": 13,
+                        "RelativeX": 324,
+                        "RelativeY": 13,
+                        "ResizeMode": "STRETCH",
+                        "style": {
+                            "marginTop": 0,
+                            "marginBottom": 0,
+                            "marginLeft": 0,
+                            "marginRight": 0,
+                            "paddingTop": 0,
+                            "paddingBottom": 0,
+                            "paddingLeft": 0,
+                            "paddingRight": 0,
+                            "borderRadius": 1,
+                            "shadowColor": "rgba(0, 0, 0, 0)",
+                            "shadowOpacity": 0,
+                            "scaledShadowOpacity": 0,
+                            "shadowRadius": 0,
+                            "shadowOffset": {
+                                "width": 0,
+                                "height": 0
+                            },
+                            "position": "absolute",
+                            "left": "58.715555826822914%",
+                            "top": "8.85807477730861%",
+                            "display": "flex",
+                            "borderWidth": 1
+                        },
+                        "FontBold": false,
+                        "FontItalic": false,
+                        "Raised": false,
+                        "Disabled": false,
+                        "ParentId": "aa882a0f-38e9-4e0b-9142-43d08bb430ea",
+                        "position": "absolute",
+                        "edgeOffsets": 13,
+                        "resizeMode": "contain"
+                    },
+                    "children": [],
+                    "id": "ac172488-065d-4ce8-a79c-656d7d2e4a4c",
+                    "thunkableVersion": 452,
+                    "name": "Button: LogOut"
+                },
                 {
                     "type": "Label",
                     "translatedName": "Label",

@@ -81,6 +81,63 @@
             },
             "children": [
                 {
+                    "type": "Button",
+                    "translatedName": "Button",
+                    "properties": {
+                        "Text": "",
+                        "TextColor": "#FFFFFF",
+                        "FontSize": 16,
+                        "Font": "",
+                        "CustomFont": "",
+                        "BackgroundColor": "rgba(0, 0, 0, 0)",
+                        "BackgroundPicture": "home.png",
+                        "BackgroundPictureResizeMode": "center",
+                        "Height": 34,
+                        "Width": 35,
+                        "Visible": true,
+                        "X": 12,
+                        "Y": 19,
+                        "RelativeX": 15,
+                        "RelativeY": 19,
+                        "ResizeMode": "STRETCH",
+                        "style": {
+                            "marginTop": 0,
+                            "marginBottom": 0,
+                            "marginLeft": 0,
+                            "marginRight": 0,
+                            "paddingTop": 0,
+                            "paddingBottom": 0,
+                            "paddingLeft": 0,
+                            "paddingRight": 0,
+                            "borderRadius": 9,
+                            "shadowColor": "rgba(0, 0, 0, 0)",
+                            "shadowOpacity": 0,
+                            "scaledShadowOpacity": 0,
+                            "shadowRadius": 0,
+                            "shadowOffset": {
+                                "width": 0,
+                                "height": 0
+                            },
+                            "position": "absolute",
+                            "left": "0%",
+                            "top": "0%",
+                            "display": "flex"
+                        },
+                        "FontBold": false,
+                        "FontItalic": false,
+                        "Raised": false,
+                        "Disabled": false,
+                        "ParentId": "c6130b14-0963-4c49-8967-fefdd466643a",
+                        "position": "absolute",
+                        "edgeOffsets": 19,
+                        "resizeMode": "center"
+                    },
+                    "children": [],
+                    "id": "2606719b-0924-4608-89ba-2eafc2da2432",
+                    "thunkableVersion": 453,
+                    "name": "Button: NavMain"
+                },
+                {
                     "type": "Label",
                     "translatedName": "Label",
                     "reactType": "Text",
@@ -209,7 +266,7 @@
             "id": "35d955e6-e7e5-425c-9c74-683b477fcf8d",
             "thunkableVersion": 450,
             "bindings": null,
-            "name": "Button: Review Game"
+            "name": "Button: Game3"
         },
         {
             "type": "Button",
@@ -319,7 +376,7 @@
             "id": "02b05a71-513d-4ae6-b5f2-c0005b182fd9",
             "thunkableVersion": 450,
             "bindings": null,
-            "name": "Button: Review Game1"
+            "name": "Button: Game2"
         },
         {
             "type": "Group",
@@ -1003,7 +1060,7 @@
             "children": [],
             "id": "a84a8623-770c-4260-a3cf-a7902cc902fd",
             "thunkableVersion": 450,
-            "name": "Button: Game"
+            "name": "Button: Game1"
         },
         {
             "type": "Group",
