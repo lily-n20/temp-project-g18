@@ -227,6 +227,36 @@
             },
             "children": [
                 {
+                    "type": "Lottie",
+                    "label": "Animation",
+                    "translatedName": "Animation",
+                    "properties": {
+                        "Animation": "",
+                        "Loop": true,
+                        "Height": 218,
+                        "Width": 252,
+                        "Visible": true,
+                        "X": 62.66666793823242,
+                        "Y": 365.6666717529297,
+                        "RelativeX": 29,
+                        "RelativeY": 256,
+                        "ResizeMode": "STRETCH",
+                        "ParentId": "3ac6bbbb-33c4-44df-adcc-5380e91b6d05",
+                        "position": "absolute",
+                        "edgeOffsets": 365.6666717529297,
+                        "style": {
+                            "position": "absolute",
+                            "left": "36.530208333333334%",
+                            "top": "70.53879941434846%",
+                            "display": "flex"
+                        }
+                    },
+                    "children": [],
+                    "id": "0ab68219-9383-4ba4-98ef-b40d43a0b643",
+                    "thunkableVersion": 454,
+                    "name": "Animation3"
+                },
+                {
                     "type": "Button",
                     "translatedName": "Button",
                     "properties": {
