@@ -54,10 +54,7 @@
             "reactType": "ListView",
             "properties": {
                 "TextItems": [
-                    "P O P",
-                    "R & B",
-                    "J A Z Z",
-                    "H I P  H O P"
+                    "P O P"
                 ],
                 "TextItemsColor": "rgba(34, 19, 5, 1)",
                 "TextItemsBackgroundColor": "rgba(0,0,0,0)",
