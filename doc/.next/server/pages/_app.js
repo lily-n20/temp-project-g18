@@ -4,7 +4,7 @@ exports.id = 888;
 exports.ids = [888];
 exports.modules = {
 
-/***/ 1592:
+/***/ 592:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -35,7 +35,7 @@ const Preloader = ()=>{
 const head_namespaceObject = require("next/head");
 var head_default = /*#__PURE__*/__webpack_require__.n(head_namespaceObject);
 // EXTERNAL MODULE: external "react"
-var external_react_ = __webpack_require__(6689);
+var external_react_ = __webpack_require__(689);
 ;// CONCATENATED MODULE: ./src/components/Switcher.js
 
 
@@ -200,7 +200,7 @@ const SalimovHead = ()=>{
 /* harmony default export */ const src_SalimovHead = (SalimovHead);
 
 // EXTERNAL MODULE: ./styles/globals.css
-var globals = __webpack_require__(6764);
+var globals = __webpack_require__(764);
 ;// CONCATENATED MODULE: ./pages/_app.js
 
 
@@ -225,14 +225,14 @@ const App = ({ Component , pageProps  })=>{
 
 /***/ }),
 
-/***/ 6764:
+/***/ 764:
 /***/ (() => {
 
 
 
 /***/ }),
 
-/***/ 6689:
+/***/ 689:
 /***/ ((module) => {
 
 "use strict";
@@ -255,7 +255,7 @@ module.exports = require("react/jsx-runtime");
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = (__webpack_exec__(1592));
+var __webpack_exports__ = (__webpack_exec__(592));
 module.exports = __webpack_exports__;
 
 })();
