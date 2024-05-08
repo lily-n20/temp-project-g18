@@ -8,8 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d .next",
-    "homepage": "https://lily-n20.github.io/temp-project-g18"
+    "deploy": "gh-pages -d .next"
   },
   "dependencies": {
     "@next/font": "13.1.5",
